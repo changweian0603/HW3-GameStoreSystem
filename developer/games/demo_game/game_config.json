@@ -1,0 +1,16 @@
+{
+    "name": "Demo Game",
+    "description": "A simple echo game to test the platform.",
+    "version": "1.0.0",
+    "type": "CLI",
+    "min_players": 1,
+    "max_players": 2,
+    "run_cmd": [
+        "python",
+        "client.py"
+    ],
+    "server_cmd": [
+        "python",
+        "server.py"
+    ]
+}

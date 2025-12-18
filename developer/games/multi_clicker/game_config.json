@@ -1,0 +1,16 @@
+{
+    "name": "Multi Clicker",
+    "version": "1.0.0",
+    "description": "3-5 Player Clicker Game. Click fast!",
+    "type": "GUI",
+    "min_players": 3,
+    "max_players": 5,
+    "run_cmd": [
+        "python",
+        "client.py"
+    ],
+    "server_cmd": [
+        "python",
+        "server.py"
+    ]
+}
